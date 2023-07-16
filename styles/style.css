@@ -1,0 +1,10 @@
+/* css font import link Start */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700;800&display=swap');
+/* css font import link End */
+
+
+/* font for all 
+font-family: 'Work Sans', sans-serif; */
+*{
+    font-family: 'Work Sans', sans-serif;  
+}
